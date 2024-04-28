@@ -238,3 +238,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     font-weight: 400;
     font-style: normal;
   }
+@font-face {
+    font-family: sigma-male;
+    src: url(./fonts/CFKenjiroDemo);
+}
+body{
+
+    font-family: sigma-male;
+}
